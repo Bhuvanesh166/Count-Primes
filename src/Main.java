@@ -24,7 +24,7 @@ class Prime{
 
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
-        int n=scanner.nextInt();
-        System.out.println(countPrime(n));
+        //int n=scanner.nextInt();
+        System.out.println(countPrime(20));
     }
 }
